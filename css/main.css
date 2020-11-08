@@ -282,3 +282,22 @@ main {
       font-size: 5rem; }
   .projects {
     grid-template-columns: 1fr; } }
+.CV{
+  float: right;
+  margin-right: 100px;
+  margin-bottom: 20px;
+}
+.CV button{
+  width: 100%;
+  padding: 10px;
+  background-color: white;
+  font-weight: bolder;
+  border: none;
+  border-radius: 5px;
+  color: black;
+}
+.CV button:hover{
+  color: #eece1a;
+  transform: scale(1.25)
+
+}
